@@ -33,4 +33,4 @@ python Plot_PE_PINN_Results.py -nxp 50
 ```
 
 Sample input and output files for a 200,000-epoch run on coarse resolution are included as sample data.
-Have a question about implementing the code? contact us at [klaksari@arizona.edu](mailto:klaksari@arizona.edu), akamali@arizona.edu(mailto:akamali@arizona.edu)
+Have a question about implementing the code? contact us at [klaksari@arizona.edu](mailto:klaksari@arizona.edu), [akamali@arizona.edu](mailto:akamali@arizona.edu)
