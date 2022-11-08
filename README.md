@@ -6,6 +6,7 @@ Preprint link: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=420311
 In this study, we leveraged the power of neural networks as universal function approximators to estimate the spatial distribution of elastic modulus and Poisson's ratio using available data from elasticity imaging.
 Our work is the first implementation of PINN that successfully discovers the spatial distribution of both materials parameters that fully define linear isotropic elasticity.
 This repository currently contains data and sample code from loading of a domain with embedded stiff inclusion and the PINN implementation.
+![image](https://user-images.githubusercontent.com/60515966/200451633-49d1b7e4-af03-4773-be5c-e583030db498.png)
 
 ## Quick Setup
 
