@@ -21,7 +21,6 @@ for a batch size of 1024, 200,000 training epochs:
 
 ```
 python PE_PINN.py -bs 1024 -e 200000
-
 ```
 
 The code takes in 1D txt files containing x and y collocation points and strain terms as input and returns distributions of Young's modulus, Poisson's ratio, and stress at those coordinates.
@@ -33,5 +32,5 @@ One can use the included helper function to plot unstructured data over a struct
 python Plot_PE_PINN_Results.py -nxp 50
 ```
 
-Sample input and output files for a 200,000 run are included as sample data.
+Sample input and output files for a 200,000-epoch run on coarse resolution are included as sample data.
 Have a question about implementing the code? contact us at [klaksari@arizona.edu](mailto:klaksari@arizona.edu), akamali@arizona.edu(mailto:akamali@arizona.edu)
